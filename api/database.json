@@ -43,13 +43,6 @@
       "budget": "2000",
       "neededBy": "2021-08-25",
       "id": 6
-    },
-    {
-      "description": "water is yellow",
-      "address": "galaxy rd",
-      "budget": "400",
-      "neededBy": "2021-08-21",
-      "id": 7
     }
   ]
 }
